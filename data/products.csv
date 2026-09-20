@@ -1,0 +1,13 @@
+product_id,name,category,price,description,image_url
+p001,Northstar Trail Jacket,Outdoor,129.0,Water resistant shell with breathable panels for cool weather hikes,https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&q=80
+p002,Alpine Daypack,Outdoor,74.0,Lightweight daypack with padded laptop sleeve and hydration pocket,https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80
+p003,Atlas Insulated Bottle,Outdoor,28.0,Double wall steel bottle that keeps drinks cold on long trips,https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&q=80
+p004,Loft Knit Sweater,Apparel,68.0,Soft merino blend knit with a relaxed everyday fit,https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&q=80
+p005,Harbor Canvas Sneaker,Footwear,86.0,Minimal canvas sneaker with cushioned insole for daily walking,https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&q=80
+p006,Studio Linen Shirt,Apparel,59.0,Breathable linen button down with a clean tailored silhouette,https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?w=600&q=80
+p007,Ember Desk Lamp,Home,46.0,Warm dimmable desk lamp with a compact brushed metal base,https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&q=80
+p008,Field Notes Journal,Stationery,18.0,Recycled paper notebook with lay flat binding for daily notes,https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=600&q=80
+p009,Terra Ceramic Mug,Home,22.0,Hand finished stoneware mug with a comfortable curved handle,https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600&q=80
+p010,Cloud Throw Blanket,Home,82.0,Textured cotton throw designed for cool evenings and quiet rooms,https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=600&q=80
+p011,Comet Wireless Headphones,Tech,149.0,Comfortable noise reducing headphones with all day battery life,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80
+p012,Arc Mechanical Keyboard,Tech,112.0,Compact mechanical keyboard with tactile switches and white backlight,https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80
